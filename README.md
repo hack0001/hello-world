@@ -4,7 +4,5 @@ Educational
 
 SHabba
 Dance Dance Dance!
-Add this
-Change that
 
-Boo
+Changes on the master
